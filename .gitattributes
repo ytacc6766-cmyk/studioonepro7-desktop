@@ -1,0 +1,14 @@
+# Default behavior
+build/* linguist-vendored
+*.svg text
+src/**/*.ts linguist-detectable
+*.min.css linguist-generated
+public/**/*.html linguist-vendored
+*.woff binary
+*.ico binary
+src/*.ts linguist-detectable
+
+yarn.lock linguist-generated
+*.html linguist-vendored
+
+*.yaml linguist-detectable=false
