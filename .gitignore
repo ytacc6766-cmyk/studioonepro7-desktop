@@ -1,0 +1,8 @@
+*.log
+.next/
+coverage/
+node_modules/
+.pnpm-store/
+.cache/
+*.tgz
+.env
